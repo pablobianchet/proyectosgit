@@ -19,7 +19,7 @@ header{
 
 @keyframes smoky{ 
       60% 
-      {text-shadow: 0 0 40px rgb(232, 226, 128);}
+      {text-shadow: 0 0 40px rgb(222, 13, 13);}
       to {
       transform:
       translate3d(15rem,-8rem,0)
