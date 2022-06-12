@@ -19,14 +19,14 @@ header{
 
 @keyframes smoky{ 
       60% 
-      {text-shadow: 0 0 40px whitesmoke;}
+      {text-shadow: 0 0 40px rgb(232, 226, 128);}
       to {
       transform:
       translate3d(15rem,-8rem,0)
       rotate(-40deg)
       skewX(70deg)
       scale(1.5);
-      text-shadow: 0 0 20px whitesmoke;
+      text-shadow: 0 0 20px rgb(24, 122, 88);
       opacity: 0;
 }
 }
